@@ -1,0 +1,2 @@
+# VitisAI_ZYNQ7020
+ZYNQ7020 in Vitis AI
